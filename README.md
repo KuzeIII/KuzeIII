@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KuzeIII
+- 👋 Hi, I’m @Kuze
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning OSCP
 - 💞️ I’m looking to collaborate on anything that be interesting
